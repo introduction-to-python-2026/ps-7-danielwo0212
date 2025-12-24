@@ -1,1 +1,3 @@
-
+The scatter plot shows a clear positive correlation between Alcohol and Color_intensity.
+As alcohol levels increase, color intensity generally increases as well.
+However, the spread of points indicates the relationship is moderate rather than perfectly linear.
